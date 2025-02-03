@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-author: DL@MBL Team
-name: DL@MBL
-title: Deep Learning for Microscopy Image Analysis
+author: AI@MBL Team
+name: AI@MBL
+title: Artificial Intelligence for Microscopy Image Analysis
 description: >
   The goal of this course is to familiarize researchers in the life sciences with state-of-the-art deep learning techniques
   for microscopy image analysis and to introduce them to tools and frameworks that facilitate independent application of the

@@ -20,8 +20,8 @@
 </style>
 
 <div class="instructors clearfix">
-
-  {% for group in site.data.staff %}
+  {% assign year = page.url | split: '/' | slice: 1, 1 | first %}
+  {% for group in site.data[year].staff %}
     {% include people-group.html %}
   {% endfor %}
 

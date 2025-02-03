@@ -1,0 +1,26 @@
+- name: Organizers
+  members:
+  - name: Jan Funke
+    affil: HHMI Janelia
+    image: staff/jan-funke.jpg
+  - name: Anna Kreshuk
+    affil: EMBL Heidelberg
+    image: staff/anna-kreshuk.jpg
+  - name: Alexander Krull
+    affil: University of Birmingham
+    image: staff/alexander-krull.jpg
+  - name: Shalin Mehta
+    affil: CZ Biohub
+    image: staff/shalin_mehta.webp
+
+- name: Teaching Assistants
+  members:
+  - name: Diane Adjavon
+    affil: Funke Lab, HHMI Janelia
+    image: staff/diane-adjavon.jpg
+  - name: Larissa Heinrich
+    affil: Saalfeld Lab, HHMI Janelia
+    image: staff/larissa-heinrich.jpg
+  - name: Morgan Schwartz
+    affil: Van Valen Lab, Caltech
+    image: staff/morgan-schwartz.png

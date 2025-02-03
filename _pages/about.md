@@ -1,14 +1,14 @@
 ---
-layout: about
-permalink: /
-title: DL@MBL 2024
-logo: dlmbl.svg
-news: true
+layout: none
+permalink: /about/
 ---
 
-The goal of this course is to familiarize researchers in the life sciences with state-of-the-art deep learning techniques
-for microscopy image analysis and to introduce them to tools and frameworks that facilitate independent application of the
-learned material after the course.
-
-***
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/2025/about">
+  </head>
+  <body>
+    <p>If you are not redirected automatically, follow this <a href="https://dlmbl.github.io/2025/about">link to the new page</a>.</p>
+  </body>
+</html>

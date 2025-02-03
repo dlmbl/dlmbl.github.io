@@ -12,10 +12,25 @@
         font-size: 16px;
     }
 }
+.year-select-container {
+    margin-left: 20px;
+}
+.year-select-container a {
+    display: block;
+  }
+.year-select-container select {
+    font-size: 16px;
+}
 
+//   @media (max-width: 768px) {
+//     .year-select-container {
+//       margin-top: 10px;
+//     }
+//   }
 .site-title a {
     font-family: "Roboto", Helvetica;
     font-size: 20px;
+    font-weight: bold;
     line-height: $nav-height;
     // letter-spacing: -1px;
     margin-bottom: 0;
